@@ -1,6 +1,25 @@
-## Hi there 👋
+# Hi 👋, I'm Vaziq Ahmed  
+
+<!-- 🎓 B.Tech Graduate | 💻 Aspiring Software / Data Science 
+📍 Bangalore, India  
+-->
+I’m a Computer Science–oriented **B.Tech** Graduate with hands-on experience in **Data Science and Software / Web development**, driven by problem-solving and real-world impact.
+
+## 🚀 About Me
+
+- 🎓 Graduated in **Electronics & Communication Engineering (2025)** from **PES University - Bangalore**  
+- 💡 Strong interest in **Computer Science fundamentals, Data Science/analysis, and Full-Stack Development**
+- 🛠 Built multiple end-to-end projects combining **Frontend, Backend, Databases, AI&Machine Learning and analytics** with deployment
+- 📈 Passionate about turning **data into insights** and **ideas into working systems** integrating AI&ML
+- 🌱 Currently improving my skills in **Python, SQL, Data Science, and Machine Learning**
+
+
+⭐ I believe consistent learning and real projects build real engineers.
 
 <!--
+## Hi there 👋
+
+
 **vaziq-ahmed/vaziq-ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
